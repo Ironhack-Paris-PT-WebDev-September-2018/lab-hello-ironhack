@@ -1,0 +1,28 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.first-half {
+  background-color: #1f2535;
+  background-image: url('../public/images/react-logo.svg');
+  color: white;
+}
+
+.navbar {
+  background-color: #1f2535 !important;
+}
+
+.main-title {
+  padding-top: 150px;
+  font-size: 4em;
+  font-weight: bold;
+  line-height: 1em;
+}
+
+.button {
+  margin: 30px 0;
+}
+
+#four-elements {
+  margin: 40px 0;
+}
